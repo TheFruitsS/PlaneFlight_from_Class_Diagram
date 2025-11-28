@@ -1,0 +1,1 @@
+This repository serves as a learning project for UML-to-Java translation, object-oriented design, and airline system modeling. It’s a foundation for building more complex scheduling, reporting, or automation features.
